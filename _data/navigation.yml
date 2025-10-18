@@ -1,0 +1,61 @@
+# main links links
+main:
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>教会信息</b></span><br><span style=\"font-size:15px\"><b>Introduction</b></span></p>"
+    url: /
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>主日崇拜</b></span><br><span style=\"font-size:15px\"><b>Worship</b></span></p>"
+    url: /_pages/worship
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>奉献方式</b></span><br><span style=\"font-size:15px\"><b>Give</b></span></p>"
+    url: /_pages/give
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>教会核心使命</b></span><br><span style=\"font-size:15px\"><b>Core Mission</b></span></p>"
+    url: /_pages/core_mission
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>教会与以色列</b></span><br><span style=\"font-size:15px\"><b>The Church and Israel</b></span></p>"
+    url: /_pages/church_and_israel
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>释经讲章</b></span><br><span style=\"font-size:15px\"><b>Expositional Preaching</b></span></p>"
+    url: https://bumeizhiye.com/
+  - title: "<p style=\"font-size:15px\"><span style=\"font-size:20px\"><b>证道视频</b></span><br><span style=\"font-size:15px\"><b>Videos</b></span></p>"
+    url: https://www.youtube.com/@TorontoCaojie
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /child-page-a1/
+      - title: "Child Page A2"
+        url: /child-page-a2/
+      - title: "Child Page A3"
+        url: /child-page-a3/
+      - title: "Child Page A4"
+        url: /child-page-a4/
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /child-page-b1/
+      - title: "Child Page B2"
+        url: /child-page-b2/
+      - title: "Child Page B3"
+        url: /child-page-b3/
+      - title: "Child Page B4"
+        url: /child-page-b4/
+      - title: "Child Page B5"
+        url: /child-page-b5/
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /child-page-c1/
+      - title: "Child Page C2"
+        url: /child-page-c2/
+      - title: "Child Page C3"
+        url: /child-page-c3/
+      - title: "Child Page C4"
+        url: /child-page-c4/
+      - title: "Child Page C5"
+        url: /child-page-c5/
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /child-page-d1/
+      - title: "Child Page D2"
+        url: /child-page-d2/
+      - title: "Child Page D3 (External)"
+        url: https://your-domain.com
