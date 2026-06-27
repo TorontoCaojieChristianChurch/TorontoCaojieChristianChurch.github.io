@@ -18,8 +18,8 @@ description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images_customize/logo_toronto_new.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images_customize/logo_toronto_new.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images_customize/logo_toronto_v2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images_customize/logo_toronto_v2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -72,7 +72,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images_customize/logo_toronto_new.jpg"
+og_image                 : "/assets/images_customize/logo_toronto_v2.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "多伦多曹杰基督教会"
-  avatar           : "/assets/images_customize/logo_toronto_new.jpg"
+  avatar           : "/assets/images_customize/logo_toronto_v2.jpg"
   bio              : "<b>Toronto Caojie Christian Church</b>"
   location         : "12125 Yonge St Richmond Hill"
   links:
